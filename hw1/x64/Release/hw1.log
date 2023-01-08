@@ -1,0 +1,11 @@
+﻿  camera.cpp
+  hieZbuffer.cpp
+  main.cpp
+  mesh.cpp
+  mymath.cpp
+  octree.cpp
+e:\courses\cg\zbuffer-release\hw1\octree.cpp(9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  scanlineZbuffer.cpp
+e:\courses\cg\zbuffer-release\hw1\scanlinezbuffer.cpp(77): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\courses\cg\zbuffer-release\hw1\scanlinezbuffer.cpp(188): warning C4101: “ptr_poly”: 未引用的局部变量
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
